@@ -1,0 +1,2700 @@
+From alice@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-10-20
+From: alice@company.com
+To: frank@company.com
+Subject: Sales Update
+Message-ID: <9631@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Let's meet at 3 PM today to discuss the upcoming project.
+
+Regards,
+Charlie
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From bob@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-9-18
+From: bob@company.com
+To: judy@company.com
+Subject: Company Announcement
+Message-ID: <1523@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi All,
+
+We are excited to announce the launch of our new product!
+
+Best,
+Bob
+
+----boundary
+Content-Type: application/octet-stream; name="product_launch_presentation.pptx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="product_launch_presentation.pptx"
+
+[Base64-encoded content]
+----boundary--
+
+From eve@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-1-26
+From: eve@company.com
+To: frank@company.com
+Subject: New Product Launch
+Message-ID: <2011@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi Everyone,
+
+We have an important company-wide announcement to make.
+
+Best,
+Eve
+
+----boundary
+Content-Type: application/octet-stream; name="project_plan.docx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="project_plan.docx"
+
+[Base64-encoded content]
+----boundary--
+
+From david@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-9-15
+From: david@company.com
+To: ivan@company.com
+Subject: New Product Launch
+Message-ID: <1980@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi Everyone,
+
+We have an important company-wide announcement to make.
+
+Best,
+Eve
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From bob@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-9-28
+From: bob@company.com
+To: ivan@company.com
+Subject: Quarterly Report
+Message-ID: <1340@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Let's meet at 3 PM today to discuss the upcoming project.
+
+Regards,
+Charlie
+
+----boundary
+Content-Type: application/octet-stream; name="sales_report_Q4.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="sales_report_Q4.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From eve@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-11-24
+From: eve@company.com
+To: ivan@company.com
+Subject: Quarterly Report
+Message-ID: <3986@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Please find attached the quarterly sales report.
+
+Best regards,
+Alice
+
+----boundary
+Content-Type: application/octet-stream; name="sales_report_Q4.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="sales_report_Q4.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From eve@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-3-19
+From: eve@company.com
+To: heidi@company.com
+Subject: Sales Update
+Message-ID: <6942@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Let's meet at 3 PM today to discuss the upcoming project.
+
+Regards,
+Charlie
+
+----boundary
+Content-Type: application/octet-stream; name="sales_report_Q4.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="sales_report_Q4.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From david@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-9-5
+From: david@company.com
+To: ivan@company.com
+Subject: Sales Update
+Message-ID: <1103@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Attached is the updated sales data for your review.
+
+Sincerely,
+David
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From eve@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-12-24
+From: eve@company.com
+To: frank@company.com
+Subject: Company Announcement
+Message-ID: <9993@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Please find attached the quarterly sales report.
+
+Best regards,
+Alice
+
+----boundary
+Content-Type: application/octet-stream; name="product_launch_presentation.pptx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="product_launch_presentation.pptx"
+
+[Base64-encoded content]
+----boundary--
+
+From charlie@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-8-28
+From: charlie@company.com
+To: judy@company.com
+Subject: Sales Update
+Message-ID: <1405@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi Everyone,
+
+We have an important company-wide announcement to make.
+
+Best,
+Eve
+
+----boundary
+Content-Type: application/octet-stream; name="meeting_minutes.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="meeting_minutes.txt"
+
+[Base64-encoded content]
+----boundary--
+
+From eve@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-11-21
+From: eve@company.com
+To: heidi@company.com
+Subject: Company Announcement
+Message-ID: <4573@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Let's meet at 3 PM today to discuss the upcoming project.
+
+Regards,
+Charlie
+
+----boundary
+Content-Type: application/octet-stream; name="product_launch_presentation.pptx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="product_launch_presentation.pptx"
+
+[Base64-encoded content]
+----boundary--
+
+From alice@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-4-18
+From: alice@company.com
+To: frank@company.com
+Subject: Company Announcement
+Message-ID: <3485@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi All,
+
+We are excited to announce the launch of our new product!
+
+Best,
+Bob
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From charlie@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-12-19
+From: charlie@company.com
+To: judy@company.com
+Subject: Company Announcement
+Message-ID: <6480@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi All,
+
+We are excited to announce the launch of our new product!
+
+Best,
+Bob
+
+----boundary
+Content-Type: application/octet-stream; name="project_plan.docx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="project_plan.docx"
+
+[Base64-encoded content]
+----boundary--
+
+From alice@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-3-4
+From: alice@company.com
+To: heidi@company.com
+Subject: Team Meeting
+Message-ID: <6298@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Let's meet at 3 PM today to discuss the upcoming project.
+
+Regards,
+Charlie
+
+----boundary
+Content-Type: application/octet-stream; name="meeting_minutes.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="meeting_minutes.txt"
+
+[Base64-encoded content]
+----boundary--
+
+From charlie@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-12-7
+From: charlie@company.com
+To: heidi@company.com
+Subject: New Product Launch
+Message-ID: <7202@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi Everyone,
+
+We have an important company-wide announcement to make.
+
+Best,
+Eve
+
+----boundary
+Content-Type: application/octet-stream; name="product_launch_presentation.pptx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="product_launch_presentation.pptx"
+
+[Base64-encoded content]
+----boundary--
+
+From david@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-3-17
+From: david@company.com
+To: judy@company.com
+Subject: Team Meeting
+Message-ID: <5593@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi All,
+
+We are excited to announce the launch of our new product!
+
+Best,
+Bob
+
+----boundary
+Content-Type: application/octet-stream; name="sales_report_Q4.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="sales_report_Q4.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From bob@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-7-14
+From: bob@company.com
+To: heidi@company.com
+Subject: New Product Launch
+Message-ID: <2499@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Attached is the updated sales data for your review.
+
+Sincerely,
+David
+
+----boundary
+Content-Type: application/octet-stream; name="project_plan.docx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="project_plan.docx"
+
+[Base64-encoded content]
+----boundary--
+
+From charlie@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-3-11
+From: charlie@company.com
+To: frank@company.com
+Subject: Sales Update
+Message-ID: <9124@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Attached is the updated sales data for your review.
+
+Sincerely,
+David
+
+----boundary
+Content-Type: application/octet-stream; name="meeting_minutes.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="meeting_minutes.txt"
+
+[Base64-encoded content]
+----boundary--
+
+From eve@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-6-21
+From: eve@company.com
+To: ivan@company.com
+Subject: Company Announcement
+Message-ID: <3517@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Let's meet at 3 PM today to discuss the upcoming project.
+
+Regards,
+Charlie
+
+----boundary
+Content-Type: application/octet-stream; name="project_plan.docx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="project_plan.docx"
+
+[Base64-encoded content]
+----boundary--
+
+From charlie@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-12-4
+From: charlie@company.com
+To: ivan@company.com
+Subject: Sales Update
+Message-ID: <472@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi All,
+
+We are excited to announce the launch of our new product!
+
+Best,
+Bob
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From david@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-12-12
+From: david@company.com
+To: heidi@company.com
+Subject: Company Announcement
+Message-ID: <5742@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Attached is the updated sales data for your review.
+
+Sincerely,
+David
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From david@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-6-24
+From: david@company.com
+To: judy@company.com
+Subject: Team Meeting
+Message-ID: <1561@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Attached is the updated sales data for your review.
+
+Sincerely,
+David
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From alice@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-11-28
+From: alice@company.com
+To: frank@company.com
+Subject: New Product Launch
+Message-ID: <6817@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi All,
+
+We are excited to announce the launch of our new product!
+
+Best,
+Bob
+
+----boundary
+Content-Type: application/octet-stream; name="meeting_minutes.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="meeting_minutes.txt"
+
+[Base64-encoded content]
+----boundary--
+
+From alice@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-7-20
+From: alice@company.com
+To: ivan@company.com
+Subject: Company Announcement
+Message-ID: <1353@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi Everyone,
+
+We have an important company-wide announcement to make.
+
+Best,
+Eve
+
+----boundary
+Content-Type: application/octet-stream; name="meeting_minutes.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="meeting_minutes.txt"
+
+[Base64-encoded content]
+----boundary--
+
+From alice@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-4-12
+From: alice@company.com
+To: heidi@company.com
+Subject: Team Meeting
+Message-ID: <8044@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Let's meet at 3 PM today to discuss the upcoming project.
+
+Regards,
+Charlie
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From david@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-12-28
+From: david@company.com
+To: ivan@company.com
+Subject: Team Meeting
+Message-ID: <3524@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi Everyone,
+
+We have an important company-wide announcement to make.
+
+Best,
+Eve
+
+----boundary
+Content-Type: application/octet-stream; name="project_plan.docx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="project_plan.docx"
+
+[Base64-encoded content]
+----boundary--
+
+From alice@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-3-6
+From: alice@company.com
+To: frank@company.com
+Subject: Team Meeting
+Message-ID: <4778@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Attached is the updated sales data for your review.
+
+Sincerely,
+David
+
+----boundary
+Content-Type: application/octet-stream; name="product_launch_presentation.pptx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="product_launch_presentation.pptx"
+
+[Base64-encoded content]
+----boundary--
+
+From eve@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-7-8
+From: eve@company.com
+To: judy@company.com
+Subject: New Product Launch
+Message-ID: <9014@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Let's meet at 3 PM today to discuss the upcoming project.
+
+Regards,
+Charlie
+
+----boundary
+Content-Type: application/octet-stream; name="sales_report_Q4.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="sales_report_Q4.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From charlie@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-7-1
+From: charlie@company.com
+To: frank@company.com
+Subject: Quarterly Report
+Message-ID: <3052@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi Everyone,
+
+We have an important company-wide announcement to make.
+
+Best,
+Eve
+
+----boundary
+Content-Type: application/octet-stream; name="sales_report_Q4.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="sales_report_Q4.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From david@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-2-26
+From: david@company.com
+To: grace@company.com
+Subject: Quarterly Report
+Message-ID: <6989@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi All,
+
+We are excited to announce the launch of our new product!
+
+Best,
+Bob
+
+----boundary
+Content-Type: application/octet-stream; name="product_launch_presentation.pptx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="product_launch_presentation.pptx"
+
+[Base64-encoded content]
+----boundary--
+
+From alice@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-3-28
+From: alice@company.com
+To: ivan@company.com
+Subject: Quarterly Report
+Message-ID: <9522@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Attached is the updated sales data for your review.
+
+Sincerely,
+David
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From bob@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-11-4
+From: bob@company.com
+To: frank@company.com
+Subject: New Product Launch
+Message-ID: <346@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi Everyone,
+
+We have an important company-wide announcement to make.
+
+Best,
+Eve
+
+----boundary
+Content-Type: application/octet-stream; name="meeting_minutes.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="meeting_minutes.txt"
+
+[Base64-encoded content]
+----boundary--
+
+From eve@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-9-26
+From: eve@company.com
+To: judy@company.com
+Subject: Company Announcement
+Message-ID: <6531@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi Everyone,
+
+We have an important company-wide announcement to make.
+
+Best,
+Eve
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From david@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-1-13
+From: david@company.com
+To: judy@company.com
+Subject: Sales Update
+Message-ID: <2719@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Please find attached the quarterly sales report.
+
+Best regards,
+Alice
+
+----boundary
+Content-Type: application/octet-stream; name="meeting_minutes.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="meeting_minutes.txt"
+
+[Base64-encoded content]
+----boundary--
+
+From david@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-7-24
+From: david@company.com
+To: grace@company.com
+Subject: Sales Update
+Message-ID: <4661@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Attached is the updated sales data for your review.
+
+Sincerely,
+David
+
+----boundary
+Content-Type: application/octet-stream; name="project_plan.docx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="project_plan.docx"
+
+[Base64-encoded content]
+----boundary--
+
+From bob@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-5-3
+From: bob@company.com
+To: ivan@company.com
+Subject: Sales Update
+Message-ID: <1141@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi Everyone,
+
+We have an important company-wide announcement to make.
+
+Best,
+Eve
+
+----boundary
+Content-Type: application/octet-stream; name="project_plan.docx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="project_plan.docx"
+
+[Base64-encoded content]
+----boundary--
+
+From bob@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-6-15
+From: bob@company.com
+To: grace@company.com
+Subject: Team Meeting
+Message-ID: <7397@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi Everyone,
+
+We have an important company-wide announcement to make.
+
+Best,
+Eve
+
+----boundary
+Content-Type: application/octet-stream; name="sales_report_Q4.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="sales_report_Q4.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From david@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-7-13
+From: david@company.com
+To: heidi@company.com
+Subject: Sales Update
+Message-ID: <2346@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Attached is the updated sales data for your review.
+
+Sincerely,
+David
+
+----boundary
+Content-Type: application/octet-stream; name="sales_report_Q4.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="sales_report_Q4.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From alice@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-2-10
+From: alice@company.com
+To: judy@company.com
+Subject: New Product Launch
+Message-ID: <4067@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Let's meet at 3 PM today to discuss the upcoming project.
+
+Regards,
+Charlie
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From alice@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-11-3
+From: alice@company.com
+To: heidi@company.com
+Subject: Team Meeting
+Message-ID: <3933@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Attached is the updated sales data for your review.
+
+Sincerely,
+David
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From david@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-4-4
+From: david@company.com
+To: judy@company.com
+Subject: Sales Update
+Message-ID: <1951@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi All,
+
+We are excited to announce the launch of our new product!
+
+Best,
+Bob
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From alice@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-12-14
+From: alice@company.com
+To: heidi@company.com
+Subject: Sales Update
+Message-ID: <8056@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Let's meet at 3 PM today to discuss the upcoming project.
+
+Regards,
+Charlie
+
+----boundary
+Content-Type: application/octet-stream; name="sales_report_Q4.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="sales_report_Q4.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From alice@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-4-21
+From: alice@company.com
+To: heidi@company.com
+Subject: Company Announcement
+Message-ID: <4133@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Attached is the updated sales data for your review.
+
+Sincerely,
+David
+
+----boundary
+Content-Type: application/octet-stream; name="meeting_minutes.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="meeting_minutes.txt"
+
+[Base64-encoded content]
+----boundary--
+
+From alice@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-4-28
+From: alice@company.com
+To: heidi@company.com
+Subject: Sales Update
+Message-ID: <1158@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Let's meet at 3 PM today to discuss the upcoming project.
+
+Regards,
+Charlie
+
+----boundary
+Content-Type: application/octet-stream; name="project_plan.docx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="project_plan.docx"
+
+[Base64-encoded content]
+----boundary--
+
+From david@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-1-17
+From: david@company.com
+To: ivan@company.com
+Subject: Quarterly Report
+Message-ID: <680@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Let's meet at 3 PM today to discuss the upcoming project.
+
+Regards,
+Charlie
+
+----boundary
+Content-Type: application/octet-stream; name="sales_report_Q4.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="sales_report_Q4.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From eve@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-1-5
+From: eve@company.com
+To: ivan@company.com
+Subject: Team Meeting
+Message-ID: <7876@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Attached is the updated sales data for your review.
+
+Sincerely,
+David
+
+----boundary
+Content-Type: application/octet-stream; name="sales_report_Q4.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="sales_report_Q4.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From bob@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-3-8
+From: bob@company.com
+To: frank@company.com
+Subject: Company Announcement
+Message-ID: <1507@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Attached is the updated sales data for your review.
+
+Sincerely,
+David
+
+----boundary
+Content-Type: application/octet-stream; name="product_launch_presentation.pptx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="product_launch_presentation.pptx"
+
+[Base64-encoded content]
+----boundary--
+
+From charlie@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-8-20
+From: charlie@company.com
+To: judy@company.com
+Subject: Quarterly Report
+Message-ID: <1685@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Please find attached the quarterly sales report.
+
+Best regards,
+Alice
+
+----boundary
+Content-Type: application/octet-stream; name="product_launch_presentation.pptx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="product_launch_presentation.pptx"
+
+[Base64-encoded content]
+----boundary--
+
+From eve@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-1-22
+From: eve@company.com
+To: frank@company.com
+Subject: Quarterly Report
+Message-ID: <73@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Let's meet at 3 PM today to discuss the upcoming project.
+
+Regards,
+Charlie
+
+----boundary
+Content-Type: application/octet-stream; name="product_launch_presentation.pptx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="product_launch_presentation.pptx"
+
+[Base64-encoded content]
+----boundary--
+
+From alice@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-6-28
+From: alice@company.com
+To: judy@company.com
+Subject: Quarterly Report
+Message-ID: <1561@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Let's meet at 3 PM today to discuss the upcoming project.
+
+Regards,
+Charlie
+
+----boundary
+Content-Type: application/octet-stream; name="project_plan.docx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="project_plan.docx"
+
+[Base64-encoded content]
+----boundary--
+
+From eve@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-7-2
+From: eve@company.com
+To: grace@company.com
+Subject: Company Announcement
+Message-ID: <9124@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Please find attached the quarterly sales report.
+
+Best regards,
+Alice
+
+----boundary
+Content-Type: application/octet-stream; name="product_launch_presentation.pptx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="product_launch_presentation.pptx"
+
+[Base64-encoded content]
+----boundary--
+
+From david@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-11-17
+From: david@company.com
+To: ivan@company.com
+Subject: Sales Update
+Message-ID: <6512@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Please find attached the quarterly sales report.
+
+Best regards,
+Alice
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From eve@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-4-24
+From: eve@company.com
+To: heidi@company.com
+Subject: Sales Update
+Message-ID: <9272@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi All,
+
+We are excited to announce the launch of our new product!
+
+Best,
+Bob
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From eve@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-4-16
+From: eve@company.com
+To: frank@company.com
+Subject: Quarterly Report
+Message-ID: <1257@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Let's meet at 3 PM today to discuss the upcoming project.
+
+Regards,
+Charlie
+
+----boundary
+Content-Type: application/octet-stream; name="sales_report_Q4.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="sales_report_Q4.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From alice@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-6-9
+From: alice@company.com
+To: frank@company.com
+Subject: New Product Launch
+Message-ID: <6374@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Please find attached the quarterly sales report.
+
+Best regards,
+Alice
+
+----boundary
+Content-Type: application/octet-stream; name="product_launch_presentation.pptx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="product_launch_presentation.pptx"
+
+[Base64-encoded content]
+----boundary--
+
+From bob@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-6-20
+From: bob@company.com
+To: heidi@company.com
+Subject: Team Meeting
+Message-ID: <3849@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Let's meet at 3 PM today to discuss the upcoming project.
+
+Regards,
+Charlie
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From bob@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-11-11
+From: bob@company.com
+To: judy@company.com
+Subject: Company Announcement
+Message-ID: <4028@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Let's meet at 3 PM today to discuss the upcoming project.
+
+Regards,
+Charlie
+
+----boundary
+Content-Type: application/octet-stream; name="project_plan.docx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="project_plan.docx"
+
+[Base64-encoded content]
+----boundary--
+
+From eve@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-9-17
+From: eve@company.com
+To: judy@company.com
+Subject: Company Announcement
+Message-ID: <238@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Let's meet at 3 PM today to discuss the upcoming project.
+
+Regards,
+Charlie
+
+----boundary
+Content-Type: application/octet-stream; name="product_launch_presentation.pptx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="product_launch_presentation.pptx"
+
+[Base64-encoded content]
+----boundary--
+
+From eve@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-4-6
+From: eve@company.com
+To: judy@company.com
+Subject: Team Meeting
+Message-ID: <7472@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi Everyone,
+
+We have an important company-wide announcement to make.
+
+Best,
+Eve
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From alice@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-12-28
+From: alice@company.com
+To: frank@company.com
+Subject: Team Meeting
+Message-ID: <5068@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Let's meet at 3 PM today to discuss the upcoming project.
+
+Regards,
+Charlie
+
+----boundary
+Content-Type: application/octet-stream; name="meeting_minutes.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="meeting_minutes.txt"
+
+[Base64-encoded content]
+----boundary--
+
+From bob@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-7-13
+From: bob@company.com
+To: grace@company.com
+Subject: Company Announcement
+Message-ID: <1758@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Let's meet at 3 PM today to discuss the upcoming project.
+
+Regards,
+Charlie
+
+----boundary
+Content-Type: application/octet-stream; name="sales_report_Q4.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="sales_report_Q4.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From eve@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-2-26
+From: eve@company.com
+To: frank@company.com
+Subject: Sales Update
+Message-ID: <1573@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Let's meet at 3 PM today to discuss the upcoming project.
+
+Regards,
+Charlie
+
+----boundary
+Content-Type: application/octet-stream; name="sales_report_Q4.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="sales_report_Q4.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From david@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-2-23
+From: david@company.com
+To: ivan@company.com
+Subject: Quarterly Report
+Message-ID: <1541@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi All,
+
+We are excited to announce the launch of our new product!
+
+Best,
+Bob
+
+----boundary
+Content-Type: application/octet-stream; name="project_plan.docx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="project_plan.docx"
+
+[Base64-encoded content]
+----boundary--
+
+From alice@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-11-22
+From: alice@company.com
+To: heidi@company.com
+Subject: Sales Update
+Message-ID: <1126@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Please find attached the quarterly sales report.
+
+Best regards,
+Alice
+
+----boundary
+Content-Type: application/octet-stream; name="meeting_minutes.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="meeting_minutes.txt"
+
+[Base64-encoded content]
+----boundary--
+
+From david@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-2-7
+From: david@company.com
+To: grace@company.com
+Subject: Company Announcement
+Message-ID: <4044@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Let's meet at 3 PM today to discuss the upcoming project.
+
+Regards,
+Charlie
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From alice@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-2-6
+From: alice@company.com
+To: frank@company.com
+Subject: Quarterly Report
+Message-ID: <8488@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi Everyone,
+
+We have an important company-wide announcement to make.
+
+Best,
+Eve
+
+----boundary
+Content-Type: application/octet-stream; name="product_launch_presentation.pptx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="product_launch_presentation.pptx"
+
+[Base64-encoded content]
+----boundary--
+
+From alice@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-1-10
+From: alice@company.com
+To: heidi@company.com
+Subject: Sales Update
+Message-ID: <2955@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Let's meet at 3 PM today to discuss the upcoming project.
+
+Regards,
+Charlie
+
+----boundary
+Content-Type: application/octet-stream; name="meeting_minutes.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="meeting_minutes.txt"
+
+[Base64-encoded content]
+----boundary--
+
+From david@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-9-16
+From: david@company.com
+To: judy@company.com
+Subject: New Product Launch
+Message-ID: <5863@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Attached is the updated sales data for your review.
+
+Sincerely,
+David
+
+----boundary
+Content-Type: application/octet-stream; name="meeting_minutes.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="meeting_minutes.txt"
+
+[Base64-encoded content]
+----boundary--
+
+From eve@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-3-18
+From: eve@company.com
+To: frank@company.com
+Subject: Sales Update
+Message-ID: <4210@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi Everyone,
+
+We have an important company-wide announcement to make.
+
+Best,
+Eve
+
+----boundary
+Content-Type: application/octet-stream; name="meeting_minutes.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="meeting_minutes.txt"
+
+[Base64-encoded content]
+----boundary--
+
+From bob@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-5-22
+From: bob@company.com
+To: frank@company.com
+Subject: New Product Launch
+Message-ID: <2763@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Please find attached the quarterly sales report.
+
+Best regards,
+Alice
+
+----boundary
+Content-Type: application/octet-stream; name="project_plan.docx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="project_plan.docx"
+
+[Base64-encoded content]
+----boundary--
+
+From bob@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-2-26
+From: bob@company.com
+To: heidi@company.com
+Subject: Team Meeting
+Message-ID: <9275@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Attached is the updated sales data for your review.
+
+Sincerely,
+David
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From bob@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-6-19
+From: bob@company.com
+To: grace@company.com
+Subject: Quarterly Report
+Message-ID: <2554@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Please find attached the quarterly sales report.
+
+Best regards,
+Alice
+
+----boundary
+Content-Type: application/octet-stream; name="sales_report_Q4.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="sales_report_Q4.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From eve@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-8-17
+From: eve@company.com
+To: grace@company.com
+Subject: Sales Update
+Message-ID: <8444@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Please find attached the quarterly sales report.
+
+Best regards,
+Alice
+
+----boundary
+Content-Type: application/octet-stream; name="meeting_minutes.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="meeting_minutes.txt"
+
+[Base64-encoded content]
+----boundary--
+
+From alice@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-3-20
+From: alice@company.com
+To: ivan@company.com
+Subject: Company Announcement
+Message-ID: <2747@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi All,
+
+We are excited to announce the launch of our new product!
+
+Best,
+Bob
+
+----boundary
+Content-Type: application/octet-stream; name="meeting_minutes.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="meeting_minutes.txt"
+
+[Base64-encoded content]
+----boundary--
+
+From bob@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-4-19
+From: bob@company.com
+To: frank@company.com
+Subject: Quarterly Report
+Message-ID: <7659@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi Everyone,
+
+We have an important company-wide announcement to make.
+
+Best,
+Eve
+
+----boundary
+Content-Type: application/octet-stream; name="meeting_minutes.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="meeting_minutes.txt"
+
+[Base64-encoded content]
+----boundary--
+
+From alice@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-3-9
+From: alice@company.com
+To: frank@company.com
+Subject: Quarterly Report
+Message-ID: <115@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Let's meet at 3 PM today to discuss the upcoming project.
+
+Regards,
+Charlie
+
+----boundary
+Content-Type: application/octet-stream; name="product_launch_presentation.pptx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="product_launch_presentation.pptx"
+
+[Base64-encoded content]
+----boundary--
+
+From eve@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-6-21
+From: eve@company.com
+To: heidi@company.com
+Subject: New Product Launch
+Message-ID: <6134@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi All,
+
+We are excited to announce the launch of our new product!
+
+Best,
+Bob
+
+----boundary
+Content-Type: application/octet-stream; name="product_launch_presentation.pptx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="product_launch_presentation.pptx"
+
+[Base64-encoded content]
+----boundary--
+
+From bob@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-6-11
+From: bob@company.com
+To: ivan@company.com
+Subject: Company Announcement
+Message-ID: <1331@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi All,
+
+We are excited to announce the launch of our new product!
+
+Best,
+Bob
+
+----boundary
+Content-Type: application/octet-stream; name="sales_report_Q4.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="sales_report_Q4.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From eve@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-1-7
+From: eve@company.com
+To: heidi@company.com
+Subject: Quarterly Report
+Message-ID: <4297@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi Everyone,
+
+We have an important company-wide announcement to make.
+
+Best,
+Eve
+
+----boundary
+Content-Type: application/octet-stream; name="product_launch_presentation.pptx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="product_launch_presentation.pptx"
+
+[Base64-encoded content]
+----boundary--
+
+From bob@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-5-15
+From: bob@company.com
+To: frank@company.com
+Subject: New Product Launch
+Message-ID: <9641@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi Everyone,
+
+We have an important company-wide announcement to make.
+
+Best,
+Eve
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From charlie@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-8-5
+From: charlie@company.com
+To: heidi@company.com
+Subject: Quarterly Report
+Message-ID: <3270@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi Everyone,
+
+We have an important company-wide announcement to make.
+
+Best,
+Eve
+
+----boundary
+Content-Type: application/octet-stream; name="product_launch_presentation.pptx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="product_launch_presentation.pptx"
+
+[Base64-encoded content]
+----boundary--
+
+From bob@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-10-3
+From: bob@company.com
+To: heidi@company.com
+Subject: New Product Launch
+Message-ID: <9328@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Attached is the updated sales data for your review.
+
+Sincerely,
+David
+
+----boundary
+Content-Type: application/octet-stream; name="meeting_minutes.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="meeting_minutes.txt"
+
+[Base64-encoded content]
+----boundary--
+
+From david@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-12-26
+From: david@company.com
+To: judy@company.com
+Subject: Sales Update
+Message-ID: <8666@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Attached is the updated sales data for your review.
+
+Sincerely,
+David
+
+----boundary
+Content-Type: application/octet-stream; name="sales_report_Q4.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="sales_report_Q4.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From charlie@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-7-7
+From: charlie@company.com
+To: judy@company.com
+Subject: Team Meeting
+Message-ID: <2934@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Please find attached the quarterly sales report.
+
+Best regards,
+Alice
+
+----boundary
+Content-Type: application/octet-stream; name="project_plan.docx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="project_plan.docx"
+
+[Base64-encoded content]
+----boundary--
+
+From charlie@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-3-19
+From: charlie@company.com
+To: judy@company.com
+Subject: Sales Update
+Message-ID: <92@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Attached is the updated sales data for your review.
+
+Sincerely,
+David
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From eve@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-4-4
+From: eve@company.com
+To: frank@company.com
+Subject: Sales Update
+Message-ID: <4134@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Attached is the updated sales data for your review.
+
+Sincerely,
+David
+
+----boundary
+Content-Type: application/octet-stream; name="project_plan.docx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="project_plan.docx"
+
+[Base64-encoded content]
+----boundary--
+
+From alice@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-10-1
+From: alice@company.com
+To: frank@company.com
+Subject: Sales Update
+Message-ID: <8563@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Attached is the updated sales data for your review.
+
+Sincerely,
+David
+
+----boundary
+Content-Type: application/octet-stream; name="project_plan.docx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="project_plan.docx"
+
+[Base64-encoded content]
+----boundary--
+
+From bob@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-4-5
+From: bob@company.com
+To: frank@company.com
+Subject: Sales Update
+Message-ID: <124@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Attached is the updated sales data for your review.
+
+Sincerely,
+David
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From alice@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-9-7
+From: alice@company.com
+To: frank@company.com
+Subject: Company Announcement
+Message-ID: <5319@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Let's meet at 3 PM today to discuss the upcoming project.
+
+Regards,
+Charlie
+
+----boundary
+Content-Type: application/octet-stream; name="sales_report_Q4.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="sales_report_Q4.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From bob@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-12-22
+From: bob@company.com
+To: ivan@company.com
+Subject: Sales Update
+Message-ID: <644@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Attached is the updated sales data for your review.
+
+Sincerely,
+David
+
+----boundary
+Content-Type: application/octet-stream; name="meeting_minutes.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="meeting_minutes.txt"
+
+[Base64-encoded content]
+----boundary--
+
+From david@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-8-23
+From: david@company.com
+To: judy@company.com
+Subject: New Product Launch
+Message-ID: <6918@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi All,
+
+We are excited to announce the launch of our new product!
+
+Best,
+Bob
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From eve@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-8-20
+From: eve@company.com
+To: heidi@company.com
+Subject: Team Meeting
+Message-ID: <1450@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Please find attached the quarterly sales report.
+
+Best regards,
+Alice
+
+----boundary
+Content-Type: application/octet-stream; name="meeting_minutes.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="meeting_minutes.txt"
+
+[Base64-encoded content]
+----boundary--
+
+From bob@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-12-7
+From: bob@company.com
+To: judy@company.com
+Subject: Sales Update
+Message-ID: <9675@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi Everyone,
+
+We have an important company-wide announcement to make.
+
+Best,
+Eve
+
+----boundary
+Content-Type: application/octet-stream; name="meeting_minutes.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="meeting_minutes.txt"
+
+[Base64-encoded content]
+----boundary--
+
+From alice@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-3-16
+From: alice@company.com
+To: frank@company.com
+Subject: Team Meeting
+Message-ID: <9828@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Attached is the updated sales data for your review.
+
+Sincerely,
+David
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From alice@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-1-8
+From: alice@company.com
+To: frank@company.com
+Subject: Sales Update
+Message-ID: <5905@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Let's meet at 3 PM today to discuss the upcoming project.
+
+Regards,
+Charlie
+
+----boundary
+Content-Type: application/octet-stream; name="sales_report_Q4.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="sales_report_Q4.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From charlie@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-12-23
+From: charlie@company.com
+To: frank@company.com
+Subject: Team Meeting
+Message-ID: <2606@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi All,
+
+We are excited to announce the launch of our new product!
+
+Best,
+Bob
+
+----boundary
+Content-Type: application/octet-stream; name="project_plan.docx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="project_plan.docx"
+
+[Base64-encoded content]
+----boundary--
+
+From david@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-1-26
+From: david@company.com
+To: heidi@company.com
+Subject: Company Announcement
+Message-ID: <576@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi All,
+
+We are excited to announce the launch of our new product!
+
+Best,
+Bob
+
+----boundary
+Content-Type: application/octet-stream; name="meeting_minutes.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="meeting_minutes.txt"
+
+[Base64-encoded content]
+----boundary--
+
+From charlie@company.com Mon Jan 01 00:00:00 2024
+Date: 2025-7-9
+From: charlie@company.com
+To: judy@company.com
+Subject: Sales Update
+Message-ID: <8918@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Team,
+
+Attached is the updated sales data for your review.
+
+Sincerely,
+David
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+From eve@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-4-19
+From: eve@company.com
+To: frank@company.com
+Subject: Team Meeting
+Message-ID: <6563@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi All,
+
+We are excited to announce the launch of our new product!
+
+Best,
+Bob
+
+----boundary
+Content-Type: application/octet-stream; name="project_plan.docx"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="project_plan.docx"
+
+[Base64-encoded content]
+----boundary--
+
+From david@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-3-25
+From: david@company.com
+To: heidi@company.com
+Subject: New Product Launch
+Message-ID: <1947@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Hi Everyone,
+
+We have an important company-wide announcement to make.
+
+Best,
+Eve
+
+----boundary
+Content-Type: application/octet-stream; name="meeting_minutes.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="meeting_minutes.txt"
+
+[Base64-encoded content]
+----boundary--
+

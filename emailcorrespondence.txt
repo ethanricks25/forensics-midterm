@@ -1,0 +1,67 @@
+From Jackson@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-10-20
+From: Jackson@company.com
+To: frank@company15.com
+Subject: Sales Update
+Message-ID: <9631@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Still waiting on a response about my offer. I have the files. Trust me when I say they are worth more than what I am asking for. Standing by.
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+
+From Jackson@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-10-20
+From: Jackson@company.com
+To: frank@company15.com
+Subject: Sales Update
+Message-ID: <9631@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Be sure to delete this email after you read it. I received your offer. I will take it.
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
+
+
+From Jackson@company.com Mon Jan 01 00:00:00 2024
+Date: 2024-10-20
+From: Jackson@company.com
+To: frank@company15.com
+Subject: Sales Update
+Message-ID: <9631@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--boundary"
+
+----boundary
+Content-Type: text/plain; charset=UTF-8
+
+Do not reach out to this email again.
+
+----boundary
+Content-Type: application/octet-stream; name="company_policy.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="company_policy.pdf"
+
+[Base64-encoded content]
+----boundary--
